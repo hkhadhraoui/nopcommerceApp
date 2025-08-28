@@ -1,0 +1,74 @@
+08/21/2025 11:43:53 AM WARNING The chromedriver version (138.0.7204.168) detected in PATH at C:\Drivers\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (139.0.7258.127); currently, chromedriver 139.0.7258.138 is recommended for chrome 139.*, so it is advised to delete the driver in PATH and retry
+08/21/2025 11:43:55 AM INFO ***********Test_001_login***********
+08/21/2025 11:43:55 AM INFO ***********Verifying Home Page Title***********
+08/21/2025 11:43:57 AM INFO *********** home page title test passed***********
+08/21/2025 11:43:59 AM WARNING The chromedriver version (138.0.7204.168) detected in PATH at C:\Drivers\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (139.0.7258.127); currently, chromedriver 139.0.7258.138 is recommended for chrome 139.*, so it is advised to delete the driver in PATH and retry
+08/21/2025 11:44:01 AM INFO ***********Verifying login test***********
+08/21/2025 11:44:06 AM INFO ***********login test passed***********
+08/27/2025 11:01:10 AM INFO ====== WebDriver manager ======
+08/27/2025 11:01:12 AM INFO Get LATEST chromedriver version for google-chrome
+08/27/2025 11:01:13 AM INFO Get LATEST chromedriver version for google-chrome
+08/27/2025 11:01:14 AM INFO Driver [C:\Users\hajer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+08/27/2025 11:01:16 AM INFO *********** Test_003_AddCustomer ***********
+08/27/2025 11:01:19 AM INFO *******login successful********
+08/27/2025 11:01:21 AM INFO Starting add customer test
+08/27/2025 11:01:27 AM INFO ******* Providing customer information******
+08/27/2025 11:01:35 AM INFO *******Saving new customer*********
+08/27/2025 11:01:38 AM INFO *********** Add Customer test passed ***********
+08/27/2025 11:01:38 AM INFO ====== WebDriver manager ======
+08/27/2025 11:01:39 AM INFO Get LATEST chromedriver version for google-chrome
+08/27/2025 11:01:40 AM INFO Get LATEST chromedriver version for google-chrome
+08/27/2025 11:01:41 AM INFO Driver [C:\Users\hajer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+08/27/2025 11:01:43 AM INFO ***********Verifying login test***********
+08/27/2025 11:01:47 AM INFO ***********login test passed***********
+08/27/2025 01:23:11 PM INFO ====== WebDriver manager ======
+08/27/2025 01:23:13 PM INFO Get LATEST chromedriver version for google-chrome
+08/27/2025 01:23:14 PM INFO Get LATEST chromedriver version for google-chrome
+08/27/2025 01:23:15 PM INFO Driver [C:\Users\hajer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+08/27/2025 01:23:16 PM INFO *************** Test_SearchCustomerByEmail_004 ***************
+08/27/2025 01:23:20 PM INFO *************** Login successful ***************
+08/27/2025 01:23:20 PM INFO *************** Starting Search Customer By Email ***************
+08/27/2025 01:23:26 PM INFO *************** Test_SearchCustomerByEmail_004 Finished ***************
+08/27/2025 01:23:27 PM INFO ====== WebDriver manager ======
+08/27/2025 01:23:28 PM INFO Get LATEST chromedriver version for google-chrome
+08/27/2025 01:23:29 PM INFO Get LATEST chromedriver version for google-chrome
+08/27/2025 01:23:30 PM INFO Driver [C:\Users\hajer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+08/27/2025 01:23:32 PM INFO *************** Test_SearchCustomerByName_005 ***************
+08/27/2025 01:23:35 PM INFO *************** Login successful ***************
+08/27/2025 01:23:35 PM INFO *************** Starting Search Customer By Name ***************
+08/27/2025 01:23:42 PM INFO *************** Test_SearchCustomerByName_005 Finished ***************
+08/27/2025 01:23:42 PM INFO ====== WebDriver manager ======
+08/27/2025 01:23:44 PM INFO Get LATEST chromedriver version for google-chrome
+08/27/2025 01:23:45 PM INFO Get LATEST chromedriver version for google-chrome
+08/27/2025 01:23:46 PM INFO Driver [C:\Users\hajer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+08/27/2025 01:23:47 PM INFO *********** Test_003_AddCustomer ***********
+08/27/2025 01:23:49 PM INFO *******login successful********
+08/27/2025 01:23:51 PM INFO Starting add customer test
+08/27/2025 01:23:57 PM INFO ******* Providing customer information******
+08/27/2025 01:24:05 PM INFO *******Saving new customer*********
+08/27/2025 01:24:08 PM INFO *********** Add Customer test passed ***********
+08/27/2025 01:24:08 PM INFO ====== WebDriver manager ======
+08/27/2025 01:24:10 PM INFO Get LATEST chromedriver version for google-chrome
+08/27/2025 01:24:10 PM INFO Get LATEST chromedriver version for google-chrome
+08/27/2025 01:24:11 PM INFO Driver [C:\Users\hajer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+08/27/2025 01:24:13 PM INFO ***********Test_001_login***********
+08/27/2025 01:24:13 PM INFO ***********Verifying Home Page Title***********
+08/27/2025 01:24:15 PM INFO *********** home page title test passed***********
+08/27/2025 01:24:15 PM INFO ====== WebDriver manager ======
+08/27/2025 01:24:16 PM INFO Get LATEST chromedriver version for google-chrome
+08/27/2025 01:24:17 PM INFO Get LATEST chromedriver version for google-chrome
+08/27/2025 01:24:18 PM INFO Driver [C:\Users\hajer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+08/27/2025 01:24:20 PM INFO ***********Verifying login test***********
+08/27/2025 01:24:24 PM INFO ***********login test passed***********
+08/27/2025 01:24:24 PM INFO ====== WebDriver manager ======
+08/27/2025 01:24:26 PM INFO Get LATEST chromedriver version for google-chrome
+08/27/2025 01:24:27 PM INFO Get LATEST chromedriver version for google-chrome
+08/27/2025 01:24:28 PM INFO Driver [C:\Users\hajer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+08/27/2025 01:24:29 PM INFO *********** Test_002_DDT_login **********
+08/27/2025 01:24:29 PM INFO *********** Verifying login test ***********
+08/27/2025 01:24:36 PM INFO ***********Login passed**********
+08/27/2025 01:24:43 PM INFO ***********Login failed as expected**********
+08/27/2025 01:24:47 PM INFO ***********Login failed as expected**********
+08/27/2025 01:24:51 PM INFO ***********Login failed as expected**********
+08/27/2025 01:24:51 PM INFO ***********DDT login test passed**********
+08/27/2025 01:24:51 PM INFO ***********End of login DDT test**********
